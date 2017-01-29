@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
-swiss_reviews.csv
+Datasets/Swiss_reviews.csv
+Datasets/French_review.csv
+Datasets/German_review.csv
+Datasets/US_reviews.csv
+Datasets/RandomSample.csv
