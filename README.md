@@ -1,5 +1,21 @@
 # ADAProject
 
+Project Structure:
+Swiss products - Our main notebook, were we work in pandas, and perform all the stats
+Project - Swiss products on Amazon - Spark notebook with some exploratory analysis of the whole dataset
+Companies list xtractor - Helper notebook to extract wikipedia lists
+Product comparisons - Helper notebook with some experiments
+Interactive viz - Helper notebook with some visualisations in bokeh 
+Results - PDF with our interpretation of the results
+
+companies - Folder with the extracted company lists
+Spark_scripts - Folder with the final scripts we used on the cluster
+Datasets - the extracted datasets we used
+Charts - Folder with some static visualisations used in the posters 
+Posters - Folder with the posters
+
+
+__________________________________________________________________________________________
 Abstract:   
 The goal of our project is to study the perception of Swiss products around the world. To achieve this goal we will use a dataset of Amazon reviews all of which assign a rating of the product. Furthermore, we will take in consideration only relevant ratings based on the fact of whether people find them helpful or not.
 Finally, we will use statistical tests to show if there is a significant difference between Swiss products and products from other countries in the same category.
